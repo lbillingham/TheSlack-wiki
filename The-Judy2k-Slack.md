@@ -23,7 +23,7 @@ The following people have admin rights in the Slack. They are the people to talk
 We do not have many rules, but they are:
 
 * **Be nice**
-* Conversations in #jobs are private and sensitive, and are not to be shared outside of the Slack, and only carefully outside of #jobs
+* Conversations in certain channels, especially #jobs and #mental-health, are private and sensitive, and are not to be shared outside of the Slack, and only carefully outside of the channel itself. Members should be careful about sharing anything from the Slack which should be considered privileged information.
 
 Not being nice could include:
 
