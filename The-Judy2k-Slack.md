@@ -33,6 +33,13 @@ Not being nice could include:
 *   Trolling. Posting something for the sole purpose of starting an argument or annoying other people is stupid.
 *   Excessive conspiracy-theorying. Consider making your own channel if you feel the need to negatively comment on everything related to a (reasonable) subject.
 
+## Reporting Concerns & Violations
+
+* If you have a problem or concern in the Slack (or you witness someone breaking the Code of Conduct) please open a private channel with the admins to discuss it.
+* If you have a problem or concern with one of the admins, please open a private channel with the _other_ admins to discuss it.
+
+All conversations are confidential and will be taken seriously.
+
 ## License
 
 Originally written by [@CarrotCodes](https://twitter.com/carrotcodes) [here](https://gist.github.com/CarrotCodes/72b1dee50126b933273157031ee50ae6), modified by the Judy2k Slack admins, and retains the [CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/) license - copy it, change it, and credit us. 💻❤️
