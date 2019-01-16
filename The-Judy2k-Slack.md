@@ -5,7 +5,7 @@ The Judy2k Slack is intended to be an inclusive, welcoming, respectful place for
 The following people have admin rights in the Slack. They are the people to talk to if you need help or if you have problems with or concerns about someone in the Judy2k Slack. Feel free to contact them in a private channel.
 
 * @ali (Ali King)
-* @carrot (Sky Welch)
+* @skye (Skye Welch)
 * @judy2k (Mark Smith)
 
 ## Policies
