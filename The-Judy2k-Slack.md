@@ -10,9 +10,9 @@ The following people have admin rights in the Slack. They are the people to talk
 
 ## Policies
 
-* You are expected to adhere to the [Code of Conduct](#code-of-conduct). 
+* You are expected to adhere to the [Code of Conduct](#code-of-conduct).
 * You can invite new people to the Slack! You don't need to ask permission, but please consider whether the person will adhere to the [Code of Conduct](#code-of-conduct) before inviting them.
-* You must set an avatar image! It doesn't need to be a photo of you, but @judy2k hates plaid.
+* You must set an avatar image! It doesn't need to be a photo of you, but @judy2k hates the default avatars.
 
 ## Code of Conduct
 
